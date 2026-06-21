@@ -32,11 +32,7 @@ I am focusing on understanding how modern web applications are built from start 
 
 My goal is to become a better developer by improving step by step and staying consistent.
 
----
 
-## GitHub
-
-I use GitHub to track my learning, share projects, and contribute to open source when I can.
 
 ---
 
