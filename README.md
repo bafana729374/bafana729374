@@ -1,34 +1,47 @@
-# Hey, I'm bafana 👋
+<div align="center">
 
-📍 Based in **South Africa**
-🎓 Student at **University of Cape Town (UCT)**
-💻 Learning **Next.js**, **Node.js**, and full-stack web development
+# Bafana
 
----
+### Student Developer from South Africa
 
-## About Me
-
-I’m a student from South Africa, learning how to build modern web apps with frontend and backend technologies.
-
-Currently focused on creating clean, fast, and useful full-stack projects using **Next.js** and **Node.js**.
+</div>
 
 ---
 
-## Tech Stack
+## Hello
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,typescript,javascript,tailwind,html,css,git,github,vscode" />
-</p>
+I am a student based in **South Africa** and currently studying at the **University of Cape Town**.
+
+I am learning web development and improving my programming skills by building small projects, reading code, and practicing every day.
 
 ---
 
-## Learning
+## About
 
-* Next.js apps
-* Node.js backend
-* APIs
-* React components
-* Git & GitHub
+* Based in South Africa
+* Student at University of Cape Town
+* Interested in web development
+* Learning by building real projects
+* Exploring open source and GitHub
 
+---
 
+## Current Focus
 
+I am focusing on understanding how modern web applications are built from start to finish.
+
+My goal is to become a better developer by improving step by step and staying consistent.
+
+---
+
+## GitHub
+
+I use GitHub to track my learning, share projects, and contribute to open source when I can.
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile.
+
+</div>
